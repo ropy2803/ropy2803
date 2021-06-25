@@ -1,11 +1,11 @@
 
-### Hi there 👋 and welcome!
+## Hi there 👋 and welcome!
 
 - 🔭 I’m currently working on different technologies/solutions as PowerShell, Terraform, mostly on Azure and Alibaba Cloud.
 - 🌱 I’m currently learning [Python](https://www.python.org) and [Swift](https://swift.org) / [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - 📫 How to reach me: [LinkedIn]() and [Twitter](https://twitter.com/rooodooolphe)
 
-### Repositories organization
+## Repositories organization and content
 
 I organized my **GitHub** work on different repositories with my other account (original account): [ropy1971](https://github.com/ropy1971)
 
@@ -29,11 +29,11 @@ Please find below all my repositories which are accessible for anybody (public).
 - [sql](https://github.com/ropy1971/sql)
 - [swift](https://github.com/ropy1971/swift)
 
-### Comments
+## Comments
 
 Please feel free to clone/commit in these repositories.
 
 Here is my "food": *The base is sharing.*
-And I don't like technical competition, I'm too old for that thing.
+And I don't like technical competition, I'm too old for that thing. it's wasting of time.
 
-### Last update: 2021.06.23
+## Last updates: 2021.06.25
