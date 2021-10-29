@@ -25,7 +25,7 @@ Please find below all my repositories which are accessible for anybody (public).
 - [gcp-stencils](https://github.com/ropy1971/gcp-stencils)
 - [gcp-terraform](https://github.com/ropy1971/gcp-terraform)
 - [kubernetes](https://github.com/ropy1971/kubernetes)
-- [python-scripts](https://github.com/ropy1971/python-scripts)
+- [python](https://github.com/ropy1971/python)
 - [sql](https://github.com/ropy1971/sql)
 - [swift](https://github.com/ropy1971/swift)
 
